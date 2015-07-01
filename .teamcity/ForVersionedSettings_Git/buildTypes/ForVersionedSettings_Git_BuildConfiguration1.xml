@@ -4,7 +4,7 @@
   <description />
   <settings>
     <parameters>
-      <param name="custom_param_vcs" value="value 2 with the chnage" />
+      <param name="custom_param_vcs" value="value 3" />
     </parameters>
     <build-runners>
       <runner id="RUNNER_53" name="" type="Maven2">
