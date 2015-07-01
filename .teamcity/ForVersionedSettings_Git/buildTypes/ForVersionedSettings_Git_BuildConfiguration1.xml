@@ -7,7 +7,7 @@
       <setting-ref ref="RUNNER_53" />
     </disabled-settings>
     <parameters>
-      <param name="custom_param_vcs" value="value 1" />
+      <param name="custom_param_vcs" value="value 2 with the chnage" />
     </parameters>
     <build-runners>
       <runner id="RUNNER_53" name="" type="Maven2">
