@@ -20,6 +20,13 @@
           <param name="userSettingsSelection" value="userSettingsSelection:default" />
         </parameters>
       </runner>
+      <runner id="RUNNER_54" name="" type="simpleRunner">
+        <parameters>
+          <param name="script.content" value="echo %custom_param_vcs%" />
+          <param name="teamcity.step.mode" value="default" />
+          <param name="use.custom.script" value="true" />
+        </parameters>
+      </runner>
     </build-runners>
     <vcs-settings>
       <vcs-entry-ref root-id="ForVersionedSettings_Git_HttpsLocalhost8443svnJavaEclipseTrunkJavaEclipse" />
