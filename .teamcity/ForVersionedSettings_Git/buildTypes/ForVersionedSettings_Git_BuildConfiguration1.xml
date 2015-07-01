@@ -32,6 +32,7 @@
     </build-runners>
     <vcs-settings>
       <vcs-entry-ref root-id="ForVersionedSettings_Git_HttpsLocalhost8443svnJavaEclipseTrunkJavaEclipse" />
+      <vcs-entry-ref root-id="ForVersionedSettings_Git_LocalVcs" />
     </vcs-settings>
     <requirements />
     <build-triggers />
