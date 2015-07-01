@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vcs-root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="5f5bc492-281e-4347-adfe-2de0635bde3e" type="jetbrains.git" modification-check-interval="5" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/9.0/project-config.xsd">
+  <name>https://github.com/innayan/VSgit</name>
+  <param name="agentCleanFilesPolicy" value="ALL_UNTRACKED" />
+  <param name="agentCleanPolicy" value="ON_BRANCH_CHANGE" />
+  <param name="authMethod" value="PASSWORD" />
+  <param name="branch" value="refs/heads/master" />
+  <param name="ignoreKnownHosts" value="true" />
+  <param name="secure:password" value="zxxdbb7a62f033d83a8775d03cbe80d301b" />
+  <param name="submoduleCheckout" value="CHECKOUT" />
+  <param name="teamcity:branchSpec" value="+:*" />
+  <param name="url" value="https://github.com/innayan/VSgit" />
+  <param name="useAlternates" value="true" />
+  <param name="username" value="inna_yan@mail.ru" />
+  <param name="usernameStyle" value="USERID" />
+</vcs-root>
+
