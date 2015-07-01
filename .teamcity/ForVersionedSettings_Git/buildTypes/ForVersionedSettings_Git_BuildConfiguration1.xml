@@ -3,6 +3,9 @@
   <name>build configuration1</name>
   <description />
   <settings>
+    <disabled-settings>
+      <setting-ref ref="RUNNER_53" />
+    </disabled-settings>
     <parameters>
       <param name="custom_param_vcs" value="value 1" />
     </parameters>
